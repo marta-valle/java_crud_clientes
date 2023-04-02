@@ -29,6 +29,7 @@ public class Program {
 			break;
 		case 4:
 			clienteController.consultarClientes();
+			System.out.println("teset");
 			break;
 		default:
 			System.out.println("\n OPÇÃO INVALIDA. DIGITE UMA OPÇÃO VALIDA");
